@@ -8,23 +8,19 @@
 
 ### Here you can learn some information about me
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-I am a Student at Whitney High School. I am 15 years old and am curious and relaxed.
+Some fun facts about me:
+
+* I was born in Tennessee
+* I've almost fallen off a cliff
+* I love cars! My favorite cars are the [Mclaren Senna GTR](https://cars.mclaren.com/en/ultimate-series/mclaren-senna-gtr) and the [Koenigsegg One:1](https://https://www.koenigsegg.com/model/one1)
+* My name means "Unique" or "Distinct"
+
+I am a Student at Whitney Highschool. I am 15 years old and am curious and relaxed.
 
 Some of my hobbies are
 
 * Coding
-* Biking 
-<br> <img src="trek_marlin.png" width="80" height="100" style="margin-left:10px;border-style:solid;border-width:2px;border-color:darkgrey;">
+* Biking
 * Gaming
 
 Some of my favorite things are
@@ -35,7 +31,7 @@ Some of my favorite things are
 * Season: Winter
 * Subject: CompSci
 * Game: Dead Cells
-  <br> <img src="Dead_cells_cover_art.png" width="80" height="100" style="margin-left:10px;border-style:solid;border-width:2px;border-color:darkgrey;">
-* Favorite website made by a friend who sits next to me in CompSci: [Sean Fang](https://colordark.github.io)
+  <br> <img src="Dead_cells_cover_art.png" width="80" height="100" style="margin-left:10px;border-style:solid;border-width:2px;border-color:pink;">
+* Favorite website made by a friend who sits next to me in CompSci: [Sean Fang](https://)
 
 I am a Boy Scout and I love to be out in nature camping or hiking.
