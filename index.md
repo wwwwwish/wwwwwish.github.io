@@ -34,6 +34,6 @@ Some of my favorite things are
 * Season: Winter
 * Subject: CompSci 
 * Game: Dead Cells
-<br> <img src="assets/Dead_cells_cover_art.png" width="80" height="100" style="margin-left:10px;border-style:solid;border-width:2px;border-color:pink;">
+<br> <img src="Dead_cells_cover_art.png" width="80" height="100" style="margin-left:10px;border-style:solid;border-width:2px;border-color:pink;">
 
 I am a Boy Scout and I love to be out in nature camping or hiking.
