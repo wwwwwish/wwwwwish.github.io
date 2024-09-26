@@ -12,7 +12,7 @@ Some fun facts about me:
 
 * I was born in Tennessee
 * I've almost fallen off a cliff
-* I love cars! My favorite cars are the [Mclaren Senna GTR](https://cars.mclaren.com/en/ultimate-series/mclaren-senna-gtr) and the [Koenigsegg One:1](https://https://www.koenigsegg.com/model/one1)
+* I love cars! My favorite cars are the [Mclaren Senna GTR](https://cars.mclaren.com/en/ultimate-series/mclaren-senna-gtr) and the [Koenigsegg One:1](https://www.koenigsegg.com/model/one1)
 * My name means "Unique" or "Distinct"
 
 I am a Student at Whitney Highschool. I am 15 years old and am curious and relaxed.
