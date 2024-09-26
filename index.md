@@ -21,7 +21,8 @@ I am a Student at Whitney Highschool. I am 15 years old and am curious and relax
 # Hobbies
 
 * Coding
-* Biking <img src="trek_marlin.png" width="80" height="100" style="margin-left:10px;border-style:solid;border-width:2px;border-color:silver;">
+* Biking
+  <br> <img src="trek_marlin.png" width="80" height="100" style="margin-left:10px;border-style:solid;border-width:2px;border-color:silver;">
 * Gaming
 
 # Favorites
