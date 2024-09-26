@@ -12,19 +12,19 @@ Some fun facts about me:
 
 * I was born in Tennessee
 * I've almost fallen off a cliff
-* I love cars! My favorite cars are the [Mclaren Senna GTR](https://cars.mclaren.com/en/ultimate-series/mclaren-senna-gtr) and the [Koenigsegg One:1](https://www.koenigsegg.com/model/one1)
+* I love cars! My favorite cars are the [Mclaren Senna GTR](https://cars.mclaren.com/en/ultimate-series/mclaren-senna-gtr) and the [Koenigsegg One:1](https://https://www.koenigsegg.com/model/one1)
 * My name means "Unique" or "Distinct"
+* I am a Boy Scout and I love to be out in nature camping or hiking.
 
 I am a Student at Whitney Highschool. I am 15 years old and am curious and relaxed.
 
-Some of my hobbies are
+# Hobbies
 
 * Coding
-* Biking
-  <br> <img src="trek_marlin.png" width="80" height="100" style="margin-left:10px;border-style:solid;border-width:2px;border-color:silver;">
+* Biking <img src="trek_marlin.png" width="80" height="100" style="margin-left:10px;border-style:solid;border-width:2px;border-color:silver;">
 * Gaming
 
-Some of my favorite things are
+# Favorites
 
 * Color: White or Purple
 * Food: Ravioli
@@ -35,4 +35,4 @@ Some of my favorite things are
   <br> <img src="Dead_cells_cover_art.png" width="80" height="100" style="margin-left:10px;border-style:solid;border-width:2px;border-color:silver;">
 * Favorite website made by a friend who sits next to me in CompSci: [Sean Fang](https://)
 
-I am a Boy Scout and I love to be out in nature camping or hiking.
+
