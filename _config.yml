@@ -1,3 +1,5 @@
+sass:
+  style: compressed
 theme: jekyll-theme-slate
 title: Wish Bahl
 font: Consolas
